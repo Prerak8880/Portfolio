@@ -341,6 +341,9 @@
   .about-stats .progress-bars .progress-bar .progress-con .progress .sol {
     width: 50%;
   }
+  .about-stats .progress-bars .progress-bar .progress-con .progress .sol1 {
+    width: 50%;
+  }
   
   .stat-title {
     text-transform: uppercase;
